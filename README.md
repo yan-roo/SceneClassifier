@@ -45,7 +45,7 @@ Freeze first 12 layers (0~47 layers in the implment)
 | ResNet50 | 64  | 0.953 |Generate New Data|
 | ResNet50 | 64  | 0.966 |on-the-fly|
 | ResNet50 | 64  | 0.946 |on-the-fly + constrast_pil|
-| ResNet50 | 64  | 0.98  |on-the-fly + rotation 5|
+| [ResNet50](https://drive.google.com/drive/u/1/folders/1eI_pYTPjFCxJUBtAJEnocyJgyJe_VMk2) | 64  | 0.98  |on-the-fly + rotation 5|
 | ResNet50 | 64  | 0.96  |on-the-fly + rotation 7|
 | ResNet50 | 64  | 0.953 |on-the-fly + rotation 10|
 
