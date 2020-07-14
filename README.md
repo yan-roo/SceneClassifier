@@ -1,4 +1,6 @@
 # SceneClassifier
+![example output](https://github.com/yan-roo/SceneClassifier/blob/master/Grad-CAM.png)
+
 This repository is for greyscale scene image classification from the [in-class Kaggle challenge](https://www.kaggle.com/c/cs-ioc5008-hw1) and [NCTU Computer Vision HW](https://github.com/yan-roo/NCTU_Computer_Vision/blob/master/HW5/CV2020HW5.pdf).<br> 
 The dataset is a little different:
 * Kaggle challenge: 3859 grey images with 13 categories (train:2819, test:1040)
