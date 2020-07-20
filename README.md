@@ -51,6 +51,16 @@ Freeze first 12 layers (0~47 layers in the implment)
 | ResNet50 | 64  | 0.96  |on-the-fly + rotation 7|
 | ResNet50 | 64  | 0.953 |on-the-fly + rotation 10|
 
+### Big Transfer (BiT)
+* BiT-M (pre-trained on ImageNet-21k), on-the-fly
+
+
+|Model| Batch_size| Accuracy| Extra| 
+| -------------- | :-: |:----:|:---:|
+| R50x1 | 64  | 0.966 ||
+| R50x3 | 64  | 0.96 ||
+| R101x1 | 64  | 0.96 ||
+| R101x3 | 64  | 0.953 ||
 ## Conclusion
 * Use ResNet50 with imagenet pretrain and freeze first 12 layers
 * Large batch size might be helpful
